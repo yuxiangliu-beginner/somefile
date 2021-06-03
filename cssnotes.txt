@@ -1,0 +1,14 @@
+<!-- boxsize = border + padding + actual  -->
+<!-- boxing size = change box size  （border + padding + actual）-->
+
+
+inline css > internal css > external class<br>
+id > class > selector<br>
+in real life ,separater by type<br>
+!important<br>
+
+/* % - to parent */
+/* vm , vh, to view */
+/* rem : html root size  */
+/* em : parent size */
+/* % have some view with em  */
