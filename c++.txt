@@ -2,3 +2,13 @@
 sort(rbegin(engineers),rend(engineers));
 //sort by increasing order;
 sort(begin(engineers),end(engineers));
+//upper_bound and lower_bound
+lower_bound is an algorithm with logarithmic time 
+complexity O(lgn) that will return an iterator to the 
+first element <b>equal to or greater</b> than a given
+value in a sorted sequence.
+first euqal or greater than
+upper_bound is analgorithm with logarithmic time complextity
+O(lgn) that will return iterator to the first elment
+<b>greater> than a give value in a sorted sequence
+
